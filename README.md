@@ -69,9 +69,15 @@ The home feed helps users discover trending and sponsored hashtags, with filteri
 
 ### Hashtag Marketplace & Bidding
 
-![SpotStitch hashtag marketplace and bidding interface](./screenshots/vendor-dashboard.png)
+![SpotStitch hashtag marketplace and bidding interface](./screenshots/hashtag-marketplace.png)
 
-The marketplace experience presents available hashtags, demand and pricing information, and options for instant purchase or bidding. The vendor activity area also supports monitoring purchased hashtags and performance.
+This prototype screen shows the post-purchase experience for a monetized hashtag, including the purchase summary, promoted hashtag integration, suggested hashtags, and access to performance statistics.
+
+### Vendor Activity & Hashtag Management
+
+![SpotStitch vendor dashboard and hashtag management interface](./screenshots/vendor-dashboard.png)
+
+The vendor-facing marketplace view presents available hashtags, demand and pricing information, instant-purchase and bidding options, and vendor activity areas for monitoring owned hashtags and performance.
 
 ### Purchase & Checkout Flow
 
