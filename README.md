@@ -11,9 +11,10 @@ A UX/product design case study focused on developing a monetization strategy for
 **Platform:** Riipen  
 **Semester:** Spring 2025
 
-## Figma Prototype
+## Project Links
 
-[View the SpotStitch Figma design](https://www.figma.com/design/yZtiRfTs7RqdKRB4Ule4IR/SpotStitch-Monetization-Strategy-Enhancement?node-id=0-1&t=KOj46uyLXI7osQbM-1)
+- [View the interactive Figma prototype](https://www.figma.com/design/yZtiRfTs7RqdKRB4Ule4IR/SpotStitch-Monetization-Strategy-Enhancement?node-id=0-1&t=KOj46uyLXI7osQbM-1)
+- [View the full UX Case Study Report](./UX%20Case%20Study%20Report.pdf)
 
 ## Project Overview
 
@@ -102,9 +103,11 @@ The project resulted in:
 
 **Monetization should support the user experience.** Revenue-generating features work best when they feel integrated into the product rather than interrupting the user.
 
-## Case Study Report
+## Project Completion
 
-A PDF version of the full UX case study will be included in the `docs/` folder.
+This project was completed through Riipen in collaboration with Project Human City and UNC Charlotte.
+
+![Riipen Project Completion Certificate](./riipen-project-certificate.png)
 
 ## About This Project
 
