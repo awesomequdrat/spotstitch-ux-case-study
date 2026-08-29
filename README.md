@@ -59,6 +59,32 @@ An interactive Figma prototype was created for two primary experiences.
 4. Select hashtags through a map-based interface
 5. Track transactions, revenue, and conversions
 
+## Prototype Highlights
+
+### Home Feed — Hashtag Discovery
+
+![SpotStitch home feed showing trending and sponsored hashtags](./screenshots/spotstitch-home.png)
+
+The home feed helps users discover trending and sponsored hashtags, with filtering options for categories, events, and personalization.
+
+### Hashtag Marketplace & Bidding
+
+![SpotStitch hashtag marketplace and bidding interface](./screenshots/vendor-dashboard.png)
+
+The marketplace experience presents available hashtags, demand and pricing information, and options for instant purchase or bidding. The vendor activity area also supports monitoring purchased hashtags and performance.
+
+### Purchase & Checkout Flow
+
+![SpotStitch hashtag purchase checkout screen](./screenshots/hashtag-purchase.png)
+
+The checkout flow presents the selected hashtag, bid amount, total cost, payment options, and a final confirmation step.
+
+### Analytics Dashboard
+
+![SpotStitch analytics dashboard showing hashtag performance metrics](./screenshots/analytics.png)
+
+The analytics dashboard gives vendors visibility into hashtag engagement, monetization, location, user demographics, and downloadable performance reporting.
+
 ## Usability Testing
 
 Usability testing helped identify several opportunities for improving the design:
